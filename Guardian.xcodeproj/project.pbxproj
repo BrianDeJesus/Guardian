@@ -17,6 +17,7 @@
 		83F038CF1ED14C7A0028A6DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83F038CD1ED14C7A0028A6DF /* LaunchScreen.storyboard */; };
 		83F038DA1ED14C7A0028A6DF /* GuardianTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F038D91ED14C7A0028A6DF /* GuardianTests.swift */; };
 		83F038E51ED14C7A0028A6DF /* GuardianUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F038E41ED14C7A0028A6DF /* GuardianUITests.swift */; };
+		83F038F31ED14F9B0028A6DF /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F038F21ED14F9B0028A6DF /* Menu.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		83F038E01ED14C7A0028A6DF /* GuardianUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuardianUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		83F038E41ED14C7A0028A6DF /* GuardianUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuardianUITests.swift; sourceTree = "<group>"; };
 		83F038E61ED14C7A0028A6DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83F038F21ED14F9B0028A6DF /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				83F038CB1ED14C7A0028A6DF /* Assets.xcassets */,
 				83F038CD1ED14C7A0028A6DF /* LaunchScreen.storyboard */,
 				83F038D01ED14C7A0028A6DF /* Info.plist */,
+				83F038F21ED14F9B0028A6DF /* Menu.swift */,
 			);
 			path = Guardian;
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 			files = (
 				83F038C51ED14C7A0028A6DF /* GameScene.swift in Sources */,
 				83F038C71ED14C7A0028A6DF /* GameViewController.swift in Sources */,
+				83F038F31ED14F9B0028A6DF /* Menu.swift in Sources */,
 				83F038BF1ED14C7A0028A6DF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
